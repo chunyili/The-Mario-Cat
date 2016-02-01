@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: The Mario Cat
+PURPOSE OF PROJECT: This project developed a game plays like The Mario bros. The cat can jump and move. It can be hurt by a thorn and it can gain health point by eating the fish.
+PREQUESITE : GreenFoot 3.1.2 
+VERSION : 1.0.0
+TAILER LINK : https://www.youtube.com/watch?v=AynulyZWMkc
